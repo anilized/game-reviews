@@ -1,8 +1,8 @@
 # Game Reviews
 
 **Rate**, **review** and **suggest** your favourite games to your friends. Check out best games based on your likings!
-
-API for Game Database: **#IGDB**
-Backend: **Spring REST**
-Frontend: **React**
-DB: **SQL**
+<br>
+- API for Game Database: **#IGDB**<br>
+- Backend: **Spring REST**<br>
+- Frontend: **React**<br>
+- DB: **SQL**
